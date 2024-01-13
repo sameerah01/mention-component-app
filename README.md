@@ -15,8 +15,7 @@ This app allows users to mention other users by selecting from a list of options
 
 ### Running the App
 
-- Run the app locally with the following command:
-- npm start
+- Run the app locally with the following command: npm start
 - This will start the development server, and you can access the app at http://localhost:3000 in your web browser.
 
 ### Usage
