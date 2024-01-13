@@ -5,7 +5,7 @@ This app allows users to mention other users by selecting from a list of options
 ### Installation
 
 1. Clone the repository to your local machine:
-   - git clone https://github.com/your-username/mention-component-app.git
+   - git clone https://github.com/sameerah01/mention-component-app.git
    
 2. Navigate to the project directory:
    - cd mention-component-app
